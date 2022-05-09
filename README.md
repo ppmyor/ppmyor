@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Anna%20Kim&fontSize=80&fontAlignY=40&desc=FrontEnd%20Developer&descSize=20&descAlignY=60&animation=fadeIn)
 
   
-  <p>
+  <p align="center">
   
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppmyor&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppmyor&layout=compact&theme=react)
