@@ -4,16 +4,18 @@
 
   
   <p align="center">
-  
+  <h2 align="center"> 🐥 GitHub Stats 🐥 </h2>
+ 
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppmyor&show_icons=true&theme=react)
+   <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppmyor&layout=compact&theme=react)
-  
+ 
   </p>
   
   <hr />
-<h3 align="center"> 🛠 Tech Stack 🛠 </h3>
+<h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 
-<h5 align="center"> 🔥 Techs that can be used well 🔥 </h5>
+<h4 align="center"> 🔥 Techs that can be used well 🔥 </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" aria-label="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" aria-label="CSS3"/>
@@ -21,7 +23,7 @@
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=white" aria-label="ReactJS"/>
 </p>
 
-<h5 align="center"> ✨ Techs that I've used at least once ✨ </h5>
+<h4 align="center"> ✨ Techs that I've used at least once ✨ </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white" aria-label="GraphQL"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white" aria-label="python"/>
@@ -38,7 +40,7 @@
 
   <hr/>
   
-<h3 align="center" aria-label="연락 수단">✉️ How to reach me ✉️</h3>
+<h2 align="center" aria-label="연락 수단">✉️ Me ✉️</h2>
 <p align="center">
     <a href="mailto:yorocobe@gmail.com" aria-label="email link">
       <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=yorocobe@gmail.com"/>
