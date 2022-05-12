@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Anna%20Kim&fontSize=40&fontAlignY=30&desc=FrontEnd%20Developer&descSize=14&descAlignY=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Anna%20Kim&fontSize=40&fontAlignY=30&desc=Frontend%20Developer&descSize=14&descAlignY=50&animation=fadeIn)
 
   <h3>🐥 Most Used Languages 🐥</h3>
  
