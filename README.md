@@ -8,7 +8,6 @@
 
   <h3>🛠 Tech Stack 🛠</h3>
 
-  <h5>🔥 Techs that can be used well 🔥</h5>
   <p>
       <img
           src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
