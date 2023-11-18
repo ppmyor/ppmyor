@@ -10,24 +10,24 @@
 
   <p>
       <img
-          src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
-          alt="HTML5"
-          aria-label="HTML5"
-      />
-      <img
-          src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"
-          alt="CSS3"
-          aria-label="CSS3"
-      />
-      <img
           src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"
           alt="JavaScript"
           aria-label="JavaScript"
       />
+         <img
+          src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"
+          alt="TypeScript"
+          aria-label="TypeScript"
+      />
+         <img
+          src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"
+          alt="NextJS"
+          aria-label="NextJS"
+      />
       <img
-          src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white"
-          alt="ReactJS"
-          aria-label="ReactJS"
+          src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"
+          alt="React"
+          aria-label="React"
       />
       <img
           src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"
@@ -48,12 +48,5 @@
               alt="Gmail"
           />
       </a>
-      <a href="https://velog.io/@ppmyor" aria-label="velog link">
-         <img
-              src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@ppmyor"
-              alt="Velog"
-          />
-      </a>
-        
   </p>
 </div>
